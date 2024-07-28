@@ -35,8 +35,8 @@ end
 
 local Window = Rayfield:CreateWindow({
    Name = "Blade Ball",
-   LoadingTitle = "Blade Ball",
-   LoadingSubtitle = "by SadlekAski",
+   LoadingTitle = "Kitler HubV3",
+   LoadingSubtitle = "By Kitler_R",
    ConfigurationSaving = {
       Enabled = true,
       FolderName = "BladeBallerlol",
@@ -47,15 +47,15 @@ local Window = Rayfield:CreateWindow({
       Invite = "hNX8VxcjMF",
       RememberJoins = true
    },
-   KeySystem = false,
+   KeySystem = true,
    KeySettings = {
-      Title = "IDK",
-      Subtitle = "Key System",
-      Note = "nuh",
+      Title = "Key System",
+      Subtitle = "L",
+      Note = "nuh uh",
       FileName = "??",
       SaveKey = true,
       GrabKeyFromSite = false,
-      Key = "Hello"
+      Key = "GvhyCt6Bisj678BIsGNGer"
    }
 })
 
